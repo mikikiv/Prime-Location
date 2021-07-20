@@ -1,0 +1,36 @@
+== Changelog ==
+
+== 1.0.9 ==
+* New: Completed Font Awesome 5 transition
+
+== 1.0.8 ==
+* Fix: Resolves issue with sample listing data import file
+
+== 1.0.7 ==
+* New: Theme identifying class added to body
+
+== 1.0.6 ==
+* New: Listing templates have been moved to the IMPress Listings plugin
+* Fix: Minor CSS class change
+
+== 1.0.5 ==
+* New: Font Awesome 5
+* Fix: Mobile nav menu behavior for entries with a sub-menu
+
+== 1.0.4 ==
+* Fix: Tidy up CSS for IDX mobile first templates
+
+== 1.0.3 ==
+* Fix: Single listing templates updated with Google Maps key if applicable
+* Fix: XML files pointing to wrong URLs for media
+
+== 1.0.2 ==
+* Fixed bug introduced in last update regarding preset colors
+
+== 1.0.1 ==
+* Included single listing templates
+* Added CSS for mobile first IDX pages
+* Updated documentation link
+
+== 1.0 ==
+* Initial release
