@@ -1,0 +1,17 @@
+# pack-refs with: peeled fully-peeled sorted 
+9fce7287e772d672352ea7452ad026ef23fa721d refs/remotes/origin/WP-1026
+0df39513d7954a87dd987d9c9129e0d4e546768f refs/remotes/origin/WP-1059
+bdf6b5294fae6738c5807474401dee3716ce3e26 refs/remotes/origin/WP-1160
+1c2d1202de6ef6ec7bd74ee1ad16bf8313b108a7 refs/remotes/origin/WP-1212
+e7d357a40fb64d16481669e30e250f7c0831a7ae refs/remotes/origin/WP-942
+b04cf2288f798750d56b85f4689836e9914135b4 refs/remotes/origin/WP-962
+957cbc8ae116074bf8dd9f3d075025b7891c33db refs/remotes/origin/bugfix/WP-356-fix-preset-colors-bug-in-prime-location
+fc0841ca745909454652c6ccd0aa491a697a2e2a refs/remotes/origin/master
+67b40e397b46457cca530180cf6d529fcc0973b9 refs/remotes/origin/release/1.0.1
+da69a67444bcf725f5fe039ddb6de92eeda03bd7 refs/remotes/origin/release/1.0.2
+b242aa36ba9ee4762efc587df47d53e50380e3d6 refs/remotes/origin/release/1.0.3
+0149236f34f03d3e9bf3b8301caf27a13e369bc7 refs/remotes/origin/release/1.0.4
+cdd09c1d226346cdc18c39f03da1887e74b62812 refs/remotes/origin/release/1.0.5
+746c22911c24a4331d7e27d79e98cf2e4fa39f3f refs/remotes/origin/release/1.0.6
+fc0841ca745909454652c6ccd0aa491a697a2e2a refs/remotes/origin/release/1.0.7
+cd08db20f5e2dda49407690d32f49918e605f5de refs/remotes/origin/release/1.0.8
