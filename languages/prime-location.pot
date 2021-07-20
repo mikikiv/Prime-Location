@@ -1,0 +1,253 @@
+# Copyright (C) 2016 Agent Evolution
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Prime Location 1.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-05-02 17:30:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#. Theme Name of the plugin/theme
+msgid "Prime Location"
+msgstr ""
+
+#: functions.php:22
+msgid "Green"
+msgstr ""
+
+#: functions.php:23
+msgid "Red"
+msgstr ""
+
+#: functions.php:24
+msgid "Blue"
+msgstr ""
+
+#: functions.php:25
+msgid "Purple"
+msgstr ""
+
+#: functions.php:26
+msgid "Magenta"
+msgstr ""
+
+#: functions.php:27
+msgid "Use Customizer"
+msgstr ""
+
+#: functions.php:79
+msgid "Header Right"
+msgstr ""
+
+#: functions.php:79
+msgid "Top Header Right"
+msgstr ""
+
+#: functions.php:110 functions.php:121 functions.php:132
+msgid "<i class=\\\"fa fa-caret-left\\\"></i><span>Prev</span>"
+msgstr ""
+
+#: functions.php:115 functions.php:126 functions.php:137
+msgid "<i class=\\\"fa fa-caret-right\\\"></i><span>Next</span>"
+msgstr ""
+
+#: functions.php:150
+msgid "Home Lead"
+msgstr ""
+
+#: functions.php:151
+msgid ""
+"This is the Lead section of the Home page. Recommended to use an IDX Map "
+"Search widget or Slider. If using IDX Map Search be sure to copy all the "
+"required additional scripts."
+msgstr ""
+
+#: functions.php:157
+msgid "Home Top"
+msgstr ""
+
+#: functions.php:158
+msgid ""
+"This is the Top section of the Home page below the map/slider. Recommended "
+"to use icon boxes in columns followed by the Equity - IDX Property Carousel."
+msgstr ""
+
+#: functions.php:166
+msgid "Home Middle"
+msgstr ""
+
+#: functions.php:167
+msgid ""
+"This is the Middle section of the Home page. The content here displays "
+"against the homepage background image. Recommended to add a testimonial "
+"shortcode in a text widget."
+msgstr ""
+
+#: functions.php:173
+msgid "Home Bottom"
+msgstr ""
+
+#: functions.php:174
+msgid ""
+"This is the Bottom section of the Home page. Recommended to use the Equity "
+"- Featured Page Carousel or other widget."
+msgstr ""
+
+#: lib/customizer.php:23
+msgid "Custom Colors"
+msgstr ""
+
+#: lib/customizer.php:53
+msgid "Primary Color"
+msgstr ""
+
+#: lib/customizer.php:54
+msgid "Used for links, buttons, headings."
+msgstr ""
+
+#: lib/customizer.php:68
+msgid "Primary Hover Color"
+msgstr ""
+
+#: lib/customizer.php:69
+msgid ""
+"Used for hover states and borders - should be slightly darker (or lighter) "
+"than the primary color."
+msgstr ""
+
+#: lib/customizer.php:83
+msgid "Primary Color Light"
+msgstr ""
+
+#: lib/customizer.php:84
+msgid ""
+"Used primarily for header menu borders and labels - should be lighter than "
+"the primary but in the same hue."
+msgstr ""
+
+#: lib/customizer.php:99
+msgid "Home Background"
+msgstr ""
+
+#: lib/customizer.php:126
+msgid "Default Background Image"
+msgstr ""
+
+#: lib/customizer.php:127
+msgid ""
+"Used only for the home page. <p style=\"font-style: normal;\">Upload an "
+"image in <strong>.JPG</strong> format at least 1200x800 "
+"pixels.</p><p><strong><a href=\"http://www.smushit.com/ysmush.it/\" "
+"target=\"_blank\">Optimize</a></strong> your images!</p>"
+msgstr ""
+
+#: lib/customizer.php:161
+msgid "Show site description?"
+msgstr ""
+
+#: lib/customizer.php:173
+msgid "Enable Sticky Header?"
+msgstr ""
+
+#: single-listing-classical.php:1041 single-listing-elegant.php:991
+#: single-listing-luxurious.php:947 single-listing-solid.php:1002
+#: single-listing-spacious.php:998
+msgid "View more <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: single-listing-classical.php:1068 single-listing-classical.php:1070
+#: single-listing-elegant.php:1017 single-listing-elegant.php:1019
+#: single-listing-luxurious.php:971 single-listing-luxurious.php:973
+#: single-listing-solid.php:1027 single-listing-solid.php:1029
+#: single-listing-spacious.php:1023 single-listing-spacious.php:1025
+msgid "Price:"
+msgstr ""
+
+#: single-listing-classical.php:1076 single-listing-elegant.php:1025
+#: single-listing-luxurious.php:979 single-listing-solid.php:1035
+#: single-listing-spacious.php:1031
+msgid "Address:"
+msgstr ""
+
+#: single-listing-classical.php:1077 single-listing-elegant.php:1026
+#: single-listing-luxurious.php:980 single-listing-solid.php:1036
+#: single-listing-spacious.php:1032
+msgid "City:"
+msgstr ""
+
+#: single-listing-classical.php:1078 single-listing-elegant.php:1027
+#: single-listing-luxurious.php:981 single-listing-solid.php:1037
+#: single-listing-spacious.php:1033
+msgid "State:"
+msgstr ""
+
+#: single-listing-classical.php:1079 single-listing-elegant.php:1028
+#: single-listing-luxurious.php:982 single-listing-solid.php:1038
+#: single-listing-spacious.php:1034
+msgid "Zip Code:"
+msgstr ""
+
+#: single-listing-classical.php:1115 single-listing-elegant.php:1064
+#: single-listing-luxurious.php:1018 single-listing-solid.php:1074
+#: single-listing-spacious.php:1070
+msgid "Tagged Features:"
+msgstr ""
+
+#: single-listing-classical.php:1123 single-listing-elegant.php:1072
+#: single-listing-luxurious.php:1026 single-listing-solid.php:1082
+#: single-listing-spacious.php:1078
+msgid "Home Summary"
+msgstr ""
+
+#: single-listing-classical.php:1125 single-listing-elegant.php:1074
+#: single-listing-luxurious.php:1028 single-listing-solid.php:1084
+#: single-listing-spacious.php:1080
+msgid "Kitchen Summary"
+msgstr ""
+
+#: single-listing-classical.php:1127 single-listing-elegant.php:1076
+#: single-listing-luxurious.php:1030 single-listing-solid.php:1086
+#: single-listing-spacious.php:1082
+msgid "Living Room"
+msgstr ""
+
+#: single-listing-classical.php:1129 single-listing-elegant.php:1078
+#: single-listing-luxurious.php:1032 single-listing-solid.php:1088
+#: single-listing-spacious.php:1084
+msgid "Master Suite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.agentevolution.com/kb/prime-location/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"An IDX Real Estate Child Theme with a full homepage map search for the "
+"Equity Framework"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Agent Evolution"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.agentevolution.com/"
+msgstr ""
