@@ -1,0 +1,799 @@
+/* =Color Styles - Green
+------------------------------------------------------------------------- */
+.prime-location-green a,
+.prime-location-green .home-lead .leaflet-container a,
+.prime-location-green .idx-content .IDX-wrapper-standard a:not(.IDX-btn),
+.prime-location-green header .site-title a,
+.prime-location-green header .site-title a:hover,
+.prime-location-green .ae-iconbox i[class*="fa-"],
+.prime-location-green .ae-iconbox a i[class*="fa-"],
+.prime-location-green .showcase-property span.price,
+.prime-location-green .equity-idx-carousel span.price,
+.prime-location-green .widget .listing-wrap .listing-thumb-meta span,
+.prime-location-green .home-top h4.widget-title,
+.prime-location-green .home-bottom h4.widget-title,
+.prime-location-green h1.entry-title {
+	color: #3eaf48;
+}
+.prime-location-green .ae-iconbox.type-2:hover i[class*="fa-"],
+.prime-location-green .ae-iconbox.type-2:hover a i[class*="fa-"],
+.prime-location-green .ae-iconbox.type-3:hover i[class*="fa-"],
+.prime-location-green .ae-iconbox.type-3:hover a i[class*="fa-"] {
+	color: #3eaf48 !important;
+}
+.prime-location-green .top-header,
+.prime-location-green .button:not(.secondary),
+.prime-location-green button:not(.secondary),
+.prime-location-green input[type="button"],
+.prime-location-green input[type="submit"],
+.prime-location-green .IDX-wrapper-standard .IDX-btn,
+.prime-location-green .IDX-wrapper-standard .IDX-btn-default,
+.prime-location-green .IDX-wrapper-standard .IDX-btn-primary,
+.prime-location-green .IDX-wrapper-standard #IDX-newSearch,
+.prime-location-green .IDX-wrapper-standard #IDX-saveProperty,
+.prime-location-green .IDX-wrapper-standard .IDX-removeProperty,
+.prime-location-green .IDX-wrapper-standard #IDX-saveSearch,
+.prime-location-green .IDX-wrapper-standard #IDX-modifySearch,
+.prime-location-green .IDX-wrapper-standard #IDX-submitBtn,
+.prime-location-green .IDX-wrapper-standard #IDX-resetBtn,
+.prime-location-green .IDX-wrapper-standard #IDX-refineSearchFormToggle,
+.prime-location-green .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.prime-location-green .IDX-wrapper-standard .IDX-navbar-default,
+.prime-location-green .IDX-wrapper-standard .IDX-navigation,
+.prime-location-green .home-lead .IDX-mapTab,
+.prime-location-green .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a,
+.prime-location-green .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:focus,
+.prime-location-green .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:hover,
+.prime-location-green .IDX-wrapper-standard #IDX-mapHeader-Search,
+.prime-location-green .ae-iconbox.type-2 i,
+.prime-location-green .ae-iconbox.type-3 i,
+.prime-location-green ul.pagination li.current a,
+.prime-location-green ul.pagination li.current button,
+.prime-location-green .bg-alt,
+.prime-location-green .after-entry-widget-area,
+.prime-location-green .contain-to-grid,
+.prime-location-green .top-header,
+.prime-location-green .top-bar,
+.prime-location-green .top-bar.expanded .title-area,
+.prime-location-green .top-bar-section ul li,
+.prime-location-green .top-bar-section ul li.active > a,
+.prime-location-green .top-bar-section .dropdown li label,
+.prime-location-green .top-bar-section .dropdown li a,
+.prime-location-green .top-bar-section .dropdown li:not(.has-form) a:not(.button),
+.prime-location-green .top-bar-section li:not(.has-form) a:not(.button) {
+	background-color: #3eaf48;
+}
+.prime-location-green .button,
+.prime-location-green button,
+.prime-location-green input[type="button"],
+.prime-location-green input[type="submit"],
+.prime-location-green .idx-content .IDX-wrapper-standard .IDX-panel-primary,
+.prime-location-green .idx-content .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.prime-location-green .idx-content .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-collapse,
+.prime-location-green .idx-content .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-form,
+.prime-location-green .idx-content .IDX-wrapper-standard .IDX-navbar-default {
+	border-color: #3eaf48;
+}
+.prime-location-green a:hover,
+.prime-location-green a:focus {
+	color: #379f41;
+}
+.prime-location-green .button:not(.secondary):hover,
+.prime-location-green button:not(.secondary):hover,
+.prime-location-green input[type="button"]:hover,
+.prime-location-green input[type="submit"]:hover,
+.prime-location-green .IDX-wrapper-standard .IDX-btn:hover,
+.prime-location-green .IDX-wrapper-standard .IDX-btn-default:hover,
+.prime-location-green .IDX-wrapper-standard .IDX-btn-primary:hover,
+.prime-location-green .IDX-wrapper-standard #IDX-newSearch:hover,
+.prime-location-green .IDX-wrapper-standard #IDX-saveProperty:hover,
+.prime-location-green .IDX-wrapper-standard .IDX-removeProperty:hover,
+.prime-location-green .IDX-wrapper-standard #IDX-saveSearch:hover,
+.prime-location-green .IDX-wrapper-standard #IDX-modifySearch:hover,
+.prime-location-green .IDX-wrapper-standard #IDX-submitBtn:hover,
+.prime-location-green .IDX-wrapper-standard #IDX-resetBtn:hover,
+.prime-location-green .IDX-wrapper-standard #IDX-refineSearchFormToggle:hover,
+.prime-location-green .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a,
+.prime-location-green .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:focus,
+.prime-location-green .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:hover,
+.prime-location-green .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:focus,
+.prime-location-green .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:hover,
+.prime-location-green .IDX-wrapper-standard .IDX-searchNavItem a:hover,
+.prime-location-green .bg-alt .button:hover,
+.prime-location-green .bg-alt input[type="button"]:hover,
+.prime-location-green .bg-alt input[type="submit"]:hover,
+.prime-location-green .button:not(.secondary):focus,
+.prime-location-green button:not(.secondary):focus,
+.prime-location-green input[type="button"]:focus,
+.prime-location-green input[type="submit"]:focus,
+.prime-location-green ul.pagination li.current a:hover,
+.prime-location-green ul.pagination li.current a:focus,
+.prime-location-green ul.pagination li.current button:hover,
+.prime-location-green ul.pagination li.current button:focus,
+.prime-location-green .top-bar-section ul li.active > a,
+.prime-location-green .top-bar-section li:not(.has-form):hover > a:not(.button),
+.prime-location-green .top-bar-section .dropdown li:not(.has-form):hover > a:not(.button),
+.prime-location-green .top-bar-section li.active:not(.has-form) a:not(.button):hover,
+.prime-location-green .top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background-color: #379f41;
+}
+.prime-location-green .top-bar.expanded .toggle-topbar a,
+.prime-location-green .top-bar-section .dropdown label {
+	color: #54cb5e;
+}
+.prime-location-green .top-bar-section .divider,
+.prime-location-green .top-bar-section [role="separator"],
+.prime-location-green .top-bar-section > ul > .divider,
+.prime-location-green .top-bar-section > ul > [role="separator"] {
+	border-color: #54cb5e;
+}
+.prime-location-green .top-header a,
+.prime-location-green .bg-alt a,
+.prime-location-green .button,
+.prime-location-green button,
+.prime-location-green input[type="button"],
+.prime-location-green input[type="submit"],
+.prime-location-green .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a,
+.prime-location-green .button:hover,
+.prime-location-green button:hover,
+.prime-location-green input[type="button"]:hover,
+.prime-location-green input[type="submit"]:hover,
+.prime-location-green .ae-iconbox.type-2 i,
+.prime-location-green .ae-iconbox.type-3 i,
+.prime-location-green .bg-alt .ae-iconbox i[class*="fa-"],
+.prime-location-green .bg-alt .ae-iconbox a i[class*="fa-"] {
+	color: #fff !important;
+}
+.prime-location-green .bg-alt .button,
+.prime-location-green .bg-alt button,
+.prime-location-green .bg-alt input[type="button"],
+.prime-location-green .bg-alt input[type="submit"] {
+	border-color: #fff;
+}
+
+
+/* =Color Styles - Blue
+------------------------------------------------------------------------- */
+.prime-location-blue a,
+.prime-location-blue .home-lead .leaflet-container a,
+.prime-location-blue .idx-content .IDX-wrapper-standard a:not(.IDX-btn),
+.prime-location-blue header .site-title a,
+.prime-location-blue header .site-title a:hover,
+.prime-location-blue .ae-iconbox i[class*="fa-"],
+.prime-location-blue .ae-iconbox a i[class*="fa-"],
+.prime-location-blue .showcase-property span.price,
+.prime-location-blue .equity-idx-carousel span.price,
+.prime-location-blue .widget .listing-wrap .listing-thumb-meta span,
+.prime-location-blue .home-top h4.widget-title,
+.prime-location-blue .home-bottom h4.widget-title,
+.prime-location-blue h1.entry-title {
+	color: #424cb1;
+}
+.prime-location-blue .ae-iconbox.type-2:hover i[class*="fa-"],
+.prime-location-blue .ae-iconbox.type-2:hover a i[class*="fa-"],
+.prime-location-blue .ae-iconbox.type-3:hover i[class*="fa-"],
+.prime-location-blue .ae-iconbox.type-3:hover a i[class*="fa-"] {
+	color: #424cb1 !important;
+}
+.prime-location-blue .top-header,
+.prime-location-blue .button:not(.secondary),
+.prime-location-blue button:not(.secondary),
+.prime-location-blue input[type="button"],
+.prime-location-blue input[type="submit"],
+.prime-location-blue .IDX-wrapper-standard .IDX-btn,
+.prime-location-blue .IDX-wrapper-standard .IDX-btn-default,
+.prime-location-blue .IDX-wrapper-standard .IDX-btn-primary,
+.prime-location-blue .IDX-wrapper-standard #IDX-newSearch,
+.prime-location-blue .IDX-wrapper-standard #IDX-saveProperty,
+.prime-location-blue .IDX-wrapper-standard .IDX-removeProperty,
+.prime-location-blue .IDX-wrapper-standard #IDX-saveSearch,
+.prime-location-blue .IDX-wrapper-standard #IDX-modifySearch,
+.prime-location-blue .IDX-wrapper-standard #IDX-submitBtn,
+.prime-location-blue .IDX-wrapper-standard #IDX-resetBtn,
+.prime-location-blue .IDX-wrapper-standard #IDX-refineSearchFormToggle,
+.prime-location-blue .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.prime-location-blue .IDX-wrapper-standard .IDX-navbar-default,
+.prime-location-blue .IDX-wrapper-standard .IDX-navigation,
+.prime-location-blue .home-lead .IDX-mapTab,
+.prime-location-blue .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a,
+.prime-location-blue .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:focus,
+.prime-location-blue .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:hover,
+.prime-location-blue .IDX-wrapper-standard #IDX-mapHeader-Search,
+.prime-location-blue .ae-iconbox.type-2 i,
+.prime-location-blue .ae-iconbox.type-3 i,
+.prime-location-blue ul.pagination li.current a,
+.prime-location-blue ul.pagination li.current button,
+.prime-location-blue .bg-alt,
+.prime-location-blue .after-entry-widget-area,
+.prime-location-blue .contain-to-grid,
+.prime-location-blue .top-header,
+.prime-location-blue .top-bar,
+.prime-location-blue .top-bar.expanded .title-area,
+.prime-location-blue .top-bar-section ul li,
+.prime-location-blue .top-bar-section ul li.active > a,
+.prime-location-blue .top-bar-section .dropdown li label,
+.prime-location-blue .top-bar-section .dropdown li a,
+.prime-location-blue .top-bar-section .dropdown li:not(.has-form) a:not(.button),
+.prime-location-blue .top-bar-section li:not(.has-form) a:not(.button) {
+	background-color: #424cb1;
+}
+.prime-location-blue .button,
+.prime-location-blue button,
+.prime-location-blue input[type="button"],
+.prime-location-blue input[type="submit"],
+.prime-location-blue .idx-content .IDX-wrapper-standard .IDX-panel-primary,
+.prime-location-blue .idx-content .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.prime-location-blue .idx-content .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-collapse,
+.prime-location-blue .idx-content .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-form,
+.prime-location-blue .idx-content .IDX-wrapper-standard .IDX-navbar-default {
+	border-color: #424cb1;
+}
+.prime-location-blue a:hover,
+.prime-location-blue a:focus {
+	color: #343d95;
+}
+.prime-location-blue .button:not(.secondary):hover,
+.prime-location-blue button:not(.secondary):hover,
+.prime-location-blue input[type="button"]:hover,
+.prime-location-blue input[type="submit"]:hover,
+.prime-location-blue .IDX-wrapper-standard .IDX-btn:hover,
+.prime-location-blue .IDX-wrapper-standard .IDX-btn-default:hover,
+.prime-location-blue .IDX-wrapper-standard .IDX-btn-primary:hover,
+.prime-location-blue .IDX-wrapper-standard #IDX-newSearch:hover,
+.prime-location-blue .IDX-wrapper-standard #IDX-saveProperty:hover,
+.prime-location-blue .IDX-wrapper-standard .IDX-removeProperty:hover,
+.prime-location-blue .IDX-wrapper-standard #IDX-saveSearch:hover,
+.prime-location-blue .IDX-wrapper-standard #IDX-modifySearch:hover,
+.prime-location-blue .IDX-wrapper-standard #IDX-submitBtn:hover,
+.prime-location-blue .IDX-wrapper-standard #IDX-resetBtn:hover,
+.prime-location-blue .IDX-wrapper-standard #IDX-refineSearchFormToggle:hover,
+.prime-location-blue .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a,
+.prime-location-blue .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:focus,
+.prime-location-blue .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:hover,
+.prime-location-blue .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:focus,
+.prime-location-blue .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:hover,
+.prime-location-blue .IDX-wrapper-standard .IDX-searchNavItem a:hover,
+.prime-location-blue .bg-alt .button:hover,
+.prime-location-blue .bg-alt input[type="button"]:hover,
+.prime-location-blue .bg-alt input[type="submit"]:hover,
+.prime-location-blue .button:not(.secondary):focus,
+.prime-location-blue button:not(.secondary):focus,
+.prime-location-blue input[type="button"]:focus,
+.prime-location-blue input[type="submit"]:focus,
+.prime-location-blue ul.pagination li.current a:hover,
+.prime-location-blue ul.pagination li.current a:focus,
+.prime-location-blue ul.pagination li.current button:hover,
+.prime-location-blue ul.pagination li.current button:focus,
+.prime-location-blue .top-bar-section ul li.active > a,
+.prime-location-blue .top-bar-section li:not(.has-form):hover > a:not(.button),
+.prime-location-blue .top-bar-section .dropdown li:not(.has-form):hover > a:not(.button),
+.prime-location-blue .top-bar-section li.active:not(.has-form) a:not(.button):hover,
+.prime-location-blue .top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background-color: #343d95;
+}
+.prime-location-blue .top-bar.expanded .toggle-topbar a,
+.prime-location-blue .top-bar-section .dropdown label {
+	color: #767fde;
+}
+.prime-location-blue .top-bar-section .divider,
+.prime-location-blue .top-bar-section [role="separator"],
+.prime-location-blue .top-bar-section > ul > .divider,
+.prime-location-blue .top-bar-section > ul > [role="separator"] {
+	border-color: #767fde;
+}
+.prime-location-blue .top-header a,
+.prime-location-blue .bg-alt a,
+.prime-location-blue .button,
+.prime-location-blue button,
+.prime-location-blue input[type="button"],
+.prime-location-blue input[type="submit"],
+.prime-location-blue .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a,
+.prime-location-blue .button:hover,
+.prime-location-blue button:hover,
+.prime-location-blue input[type="button"]:hover,
+.prime-location-blue input[type="submit"]:hover,
+.prime-location-blue .ae-iconbox.type-2 i,
+.prime-location-blue .ae-iconbox.type-3 i,
+.prime-location-blue .bg-alt .ae-iconbox i[class*="fa-"],
+.prime-location-blue .bg-alt .ae-iconbox a i[class*="fa-"] {
+	color: #fff !important;
+}
+.prime-location-blue .bg-alt .button,
+.prime-location-blue .bg-alt button,
+.prime-location-blue .bg-alt input[type="button"],
+.prime-location-blue .bg-alt input[type="submit"] {
+	border-color: #fff;
+}
+
+/* =Color Styles - Red
+------------------------------------------------------------------------- */
+.prime-location-red a,
+.prime-location-red .home-lead .leaflet-container a,
+.prime-location-red .idx-content .IDX-wrapper-standard a:not(.IDX-btn),
+.prime-location-red header .site-title a,
+.prime-location-red header .site-title a:hover,
+.prime-location-red .ae-iconbox i[class*="fa-"],
+.prime-location-red .ae-iconbox a i[class*="fa-"],
+.prime-location-red .showcase-property span.price,
+.prime-location-red .equity-idx-carousel span.price,
+.prime-location-red .widget .listing-wrap .listing-thumb-meta span,
+.prime-location-red .home-top h4.widget-title,
+.prime-location-red .home-bottom h4.widget-title,
+.prime-location-red h1.entry-title {
+	color: #be3e4a;
+}
+.prime-location-red .ae-iconbox.type-2:hover i[class*="fa-"],
+.prime-location-red .ae-iconbox.type-2:hover a i[class*="fa-"],
+.prime-location-red .ae-iconbox.type-3:hover i[class*="fa-"],
+.prime-location-red .ae-iconbox.type-3:hover a i[class*="fa-"] {
+	color: #be3e4a !important;
+}
+.prime-location-red .top-header,
+.prime-location-red .button:not(.secondary),
+.prime-location-red button:not(.secondary),
+.prime-location-red input[type="button"],
+.prime-location-red input[type="submit"],
+.prime-location-red .IDX-wrapper-standard .IDX-btn,
+.prime-location-red .IDX-wrapper-standard .IDX-btn-default,
+.prime-location-red .IDX-wrapper-standard .IDX-btn-default,
+.prime-location-red .IDX-wrapper-standard .IDX-btn-primary,
+.prime-location-red .IDX-wrapper-standard #IDX-newSearch,
+.prime-location-red .IDX-wrapper-standard #IDX-saveProperty,
+.prime-location-red .IDX-wrapper-standard .IDX-removeProperty,
+.prime-location-red .IDX-wrapper-standard #IDX-saveSearch,
+.prime-location-red .IDX-wrapper-standard #IDX-modifySearch,
+.prime-location-red .IDX-wrapper-standard #IDX-submitBtn,
+.prime-location-red .IDX-wrapper-standard #IDX-resetBtn,
+.prime-location-red .IDX-wrapper-standard #IDX-refineSearchFormToggle,
+.prime-location-red .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.prime-location-red .IDX-wrapper-standard .IDX-navbar-default,
+.prime-location-red .IDX-wrapper-standard .IDX-navigation,
+.prime-location-red .home-lead .IDX-mapTab,
+.prime-location-red .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a,
+.prime-location-red .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:focus,
+.prime-location-red .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:hover,
+.prime-location-red .IDX-wrapper-standard #IDX-mapHeader-Search,
+.prime-location-red .ae-iconbox.type-2 i,
+.prime-location-red .ae-iconbox.type-3 i,
+.prime-location-red ul.pagination li.current a,
+.prime-location-red ul.pagination li.current button,
+.prime-location-red .bg-alt,
+.prime-location-red .after-entry-widget-area,
+.prime-location-red .contain-to-grid,
+.prime-location-red .top-header,
+.prime-location-red .top-bar,
+.prime-location-red .top-bar.expanded .title-area,
+.prime-location-red .top-bar-section ul li,
+.prime-location-red .top-bar-section ul li.active > a,
+.prime-location-red .top-bar-section .dropdown li label,
+.prime-location-red .top-bar-section .dropdown li a,
+.prime-location-red .top-bar-section .dropdown li:not(.has-form) a:not(.button),
+.prime-location-red .top-bar-section li:not(.has-form) a:not(.button) {
+	background-color: #be3e4a;
+}
+.prime-location-red .button,
+.prime-location-red button,
+.prime-location-red input[type="button"],
+.prime-location-red input[type="submit"],
+.prime-location-red .idx-content .IDX-wrapper-standard .IDX-panel-primary,
+.prime-location-red .idx-content .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.prime-location-red .idx-content .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-collapse,
+.prime-location-red .idx-content .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-form,
+.prime-location-red .idx-content .IDX-wrapper-standard .IDX-navbar-default {
+	border-color: #be3e4a;
+}
+.prime-location-red a:hover,
+.prime-location-red a:focus {
+	color: #a7333e;
+}
+.prime-location-red .button:not(.secondary):hover,
+.prime-location-red button:not(.secondary):hover,
+.prime-location-red input[type="button"]:hover,
+.prime-location-red input[type="submit"]:hover,
+.prime-location-red .IDX-wrapper-standard .IDX-btn:hover,
+.prime-location-red .IDX-wrapper-standard .IDX-btn-default:hover,
+.prime-location-red .IDX-wrapper-standard .IDX-btn-primary:hover,
+.prime-location-red .IDX-wrapper-standard #IDX-newSearch:hover,
+.prime-location-red .IDX-wrapper-standard #IDX-saveProperty:hover,
+.prime-location-red .IDX-wrapper-standard .IDX-removeProperty:hover,
+.prime-location-red .IDX-wrapper-standard #IDX-saveSearch:hover,
+.prime-location-red .IDX-wrapper-standard #IDX-modifySearch:hover,
+.prime-location-red .IDX-wrapper-standard #IDX-submitBtn:hover,
+.prime-location-red .IDX-wrapper-standard #IDX-resetBtn:hover,
+.prime-location-red .IDX-wrapper-standard #IDX-refineSearchFormToggle:hover,
+.prime-location-red .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a,
+.prime-location-red .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:focus,
+.prime-location-red .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:hover,
+.prime-location-red .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:focus,
+.prime-location-red .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:hover,
+.prime-location-red .IDX-wrapper-standard .IDX-searchNavItem a:hover,
+.prime-location-red .bg-alt .button:hover,
+.prime-location-red .bg-alt input[type="button"]:hover,
+.prime-location-red .bg-alt input[type="submit"]:hover,
+.prime-location-red .button:not(.secondary):focus,
+.prime-location-red button:not(.secondary):focus,
+.prime-location-red input[type="button"]:focus,
+.prime-location-red input[type="submit"]:focus,
+.prime-location-red ul.pagination li.current a:hover,
+.prime-location-red ul.pagination li.current a:focus,
+.prime-location-red ul.pagination li.current button:hover,
+.prime-location-red ul.pagination li.current button:focus,
+.prime-location-red .top-bar-section ul li.active > a,
+.prime-location-red .top-bar-section li:not(.has-form):hover > a:not(.button),
+.prime-location-red .top-bar-section .dropdown li:not(.has-form):hover > a:not(.button),
+.prime-location-red .top-bar-section li.active:not(.has-form) a:not(.button):hover,
+.prime-location-red .top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background-color: #a7333e;
+}
+.prime-location-red .top-bar.expanded .toggle-topbar a,
+.prime-location-red .top-bar-section .dropdown label {
+	color: #d9636e;
+}
+.prime-location-red .top-bar-section .divider,
+.prime-location-red .top-bar-section [role="separator"],
+.prime-location-red .top-bar-section > ul > .divider,
+.prime-location-red .top-bar-section > ul > [role="separator"] {
+	border-color: #d9636e;
+}
+.prime-location-red .top-header a,
+.prime-location-red .bg-alt a,
+.prime-location-red .button,
+.prime-location-red button,
+.prime-location-red input[type="button"],
+.prime-location-red input[type="submit"],
+.prime-location-red .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a,
+.prime-location-red .button:hover,
+.prime-location-red button:hover,
+.prime-location-red input[type="button"]:hover,
+.prime-location-red input[type="submit"]:hover,
+.prime-location-red .ae-iconbox.type-2 i,
+.prime-location-red .ae-iconbox.type-3 i,
+.prime-location-red .bg-alt .ae-iconbox i[class*="fa-"],
+.prime-location-red .bg-alt .ae-iconbox a i[class*="fa-"] {
+	color: #fff !important;
+}
+.prime-location-red .bg-alt .button,
+.prime-location-red .bg-alt button,
+.prime-location-red .bg-alt input[type="button"],
+.prime-location-red .bg-alt input[type="submit"] {
+	border-color: #fff;
+}
+
+
+/* =Color Styles - Purple
+------------------------------------------------------------------------- */
+.prime-location-purple a,
+.prime-location-purple .home-lead .leaflet-container a,
+.prime-location-purple .idx-content .IDX-wrapper-standard a:not(.IDX-btn),
+.prime-location-purple header .site-title a,
+.prime-location-purple header .site-title a:hover,
+.prime-location-purple .ae-iconbox i[class*="fa-"],
+.prime-location-purple .ae-iconbox a i[class*="fa-"],
+.prime-location-purple .showcase-property span.price,
+.prime-location-purple .equity-idx-carousel span.price,
+.prime-location-purple .widget .listing-wrap .listing-thumb-meta span,
+.prime-location-purple .home-top h4.widget-title,
+.prime-location-purple .home-bottom h4.widget-title,
+.prime-location-purple h1.entry-title {
+	color: #805086;
+}
+.prime-location-purple .ae-iconbox.type-2:hover i[class*="fa-"],
+.prime-location-purple .ae-iconbox.type-2:hover a i[class*="fa-"],
+.prime-location-purple .ae-iconbox.type-3:hover i[class*="fa-"],
+.prime-location-purple .ae-iconbox.type-3:hover a i[class*="fa-"] {
+	color: #805086 !important;
+}
+.prime-location-purple .top-header,
+.prime-location-purple .button:not(.secondary),
+.prime-location-purple button:not(.secondary),
+.prime-location-purple input[type="button"],
+.prime-location-purple input[type="submit"],
+.prime-location-purple .IDX-wrapper-standard .IDX-btn,
+.prime-location-purple .IDX-wrapper-standard .IDX-btn-default,
+.prime-location-purple .IDX-wrapper-standard .IDX-btn-default,
+.prime-location-purple .IDX-wrapper-standard .IDX-btn-primary,
+.prime-location-purple .IDX-wrapper-standard #IDX-newSearch,
+.prime-location-purple .IDX-wrapper-standard #IDX-saveProperty,
+.prime-location-purple .IDX-wrapper-standard .IDX-removeProperty,
+.prime-location-purple .IDX-wrapper-standard #IDX-saveSearch,
+.prime-location-purple .IDX-wrapper-standard #IDX-modifySearch,
+.prime-location-purple .IDX-wrapper-standard #IDX-submitBtn,
+.prime-location-purple .IDX-wrapper-standard #IDX-resetBtn,
+.prime-location-purple .IDX-wrapper-standard #IDX-refineSearchFormToggle,
+.prime-location-purple .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.prime-location-purple .IDX-wrapper-standard .IDX-navbar-default,
+.prime-location-purple .IDX-wrapper-standard .IDX-navigation,
+.prime-location-purple .home-lead .IDX-mapTab,
+.prime-location-purple .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a,
+.prime-location-purple .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:focus,
+.prime-location-purple .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:hover,
+.prime-location-purple .IDX-wrapper-standard #IDX-mapHeader-Search,
+.prime-location-purple .ae-iconbox.type-2 i,
+.prime-location-purple .ae-iconbox.type-3 i,
+.prime-location-purple ul.pagination li.current a,
+.prime-location-purple ul.pagination li.current button,
+.prime-location-purple .bg-alt,
+.prime-location-purple .after-entry-widget-area,
+.prime-location-purple .contain-to-grid,
+.prime-location-purple .top-header,
+.prime-location-purple .top-bar,
+.prime-location-purple .top-bar.expanded .title-area,
+.prime-location-purple .top-bar-section ul li,
+.prime-location-purple .top-bar-section ul li.active > a,
+.prime-location-purple .top-bar-section .dropdown li label,
+.prime-location-purple .top-bar-section .dropdown li a,
+.prime-location-purple .top-bar-section .dropdown li:not(.has-form) a:not(.button),
+.prime-location-purple .top-bar-section li:not(.has-form) a:not(.button) {
+	background-color: #805086;
+}
+.prime-location-purple .button,
+.prime-location-purple button,
+.prime-location-purple input[type="button"],
+.prime-location-purple input[type="submit"],
+.prime-location-purple .idx-content .IDX-wrapper-standard .IDX-panel-primary,
+.prime-location-purple .idx-content .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.prime-location-purple .idx-content .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-collapse,
+.prime-location-purple .idx-content .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-form,
+.prime-location-purple .idx-content .IDX-wrapper-standard .IDX-navbar-default {
+	border-color: #805086;
+}
+.prime-location-purple a:hover,
+.prime-location-purple a:focus {
+	color: #693d6e;
+}
+.prime-location-purple .button:not(.secondary):hover,
+.prime-location-purple button:not(.secondary):hover,
+.prime-location-purple input[type="button"]:hover,
+.prime-location-purple input[type="submit"]:hover,
+.prime-location-purple .IDX-wrapper-standard .IDX-btn:hover,
+.prime-location-purple .IDX-wrapper-standard .IDX-btn-default:hover,
+.prime-location-purple .IDX-wrapper-standard .IDX-btn-primary:hover,
+.prime-location-purple .IDX-wrapper-standard #IDX-newSearch:hover,
+.prime-location-purple .IDX-wrapper-standard #IDX-saveProperty:hover,
+.prime-location-purple .IDX-wrapper-standard .IDX-removeProperty:hover,
+.prime-location-purple .IDX-wrapper-standard #IDX-saveSearch:hover,
+.prime-location-purple .IDX-wrapper-standard #IDX-modifySearch:hover,
+.prime-location-purple .IDX-wrapper-standard #IDX-submitBtn:hover,
+.prime-location-purple .IDX-wrapper-standard #IDX-resetBtn:hover,
+.prime-location-purple .IDX-wrapper-standard #IDX-refineSearchFormToggle:hover,
+.prime-location-purple .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a,
+.prime-location-purple .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:focus,
+.prime-location-purple .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:hover,
+.prime-location-purple .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:focus,
+.prime-location-purple .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:hover,
+.prime-location-purple .IDX-wrapper-standard .IDX-searchNavItem a:hover,
+.prime-location-purple .bg-alt .button:hover,
+.prime-location-purple .bg-alt input[type="button"]:hover,
+.prime-location-purple .bg-alt input[type="submit"]:hover,
+.prime-location-purple .button:not(.secondary):focus,
+.prime-location-purple button:not(.secondary):focus,
+.prime-location-purple input[type="button"]:focus,
+.prime-location-purple input[type="submit"]:focus,
+.prime-location-purple ul.pagination li.current a:hover,
+.prime-location-purple ul.pagination li.current a:focus,
+.prime-location-purple ul.pagination li.current button:hover,
+.prime-location-purple ul.pagination li.current button:focus,
+.prime-location-purple .top-bar-section ul li.active > a,
+.prime-location-purple .top-bar-section li:not(.has-form):hover > a:not(.button),
+.prime-location-purple .top-bar-section .dropdown li:not(.has-form):hover > a:not(.button),
+.prime-location-purple .top-bar-section li.active:not(.has-form) a:not(.button):hover,
+.prime-location-purple .top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background-color: #693d6e;
+}
+.prime-location-purple .top-bar.expanded .toggle-topbar a,
+.prime-location-purple .top-bar-section .dropdown label {
+	color: #ab7bb1;
+}
+.prime-location-purple .top-bar-section .divider,
+.prime-location-purple .top-bar-section [role="separator"],
+.prime-location-purple .top-bar-section > ul > .divider,
+.prime-location-purple .top-bar-section > ul > [role="separator"] {
+	border-color: #ab7bb1;
+}
+.prime-location-purple .top-header a,
+.prime-location-purple .bg-alt a,
+.prime-location-purple .button,
+.prime-location-purple button,
+.prime-location-purple input[type="button"],
+.prime-location-purple input[type="submit"],
+.prime-location-purple .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a,
+.prime-location-purple .button:hover,
+.prime-location-purple button:hover,
+.prime-location-purple input[type="button"]:hover,
+.prime-location-purple input[type="submit"]:hover,
+.prime-location-purple .ae-iconbox.type-2 i,
+.prime-location-purple .ae-iconbox.type-3 i,
+.prime-location-purple .bg-alt .ae-iconbox i[class*="fa-"],
+.prime-location-purple .bg-alt .ae-iconbox a i[class*="fa-"] {
+	color: #fff !important;
+}
+.prime-location-purple .bg-alt .button,
+.prime-location-purple .bg-alt button,
+.prime-location-purple .bg-alt input[type="button"],
+.prime-location-purple .bg-alt input[type="submit"] {
+	border-color: #fff;
+}
+
+
+/* =Color Styles - Magenta
+------------------------------------------------------------------------- */
+.prime-location-magenta a,
+.prime-location-magenta .home-lead .leaflet-container a,
+.prime-location-magenta .idx-content .IDX-wrapper-standard a:not(.IDX-btn),
+.prime-location-magenta header .site-title a,
+.prime-location-magenta header .site-title a:hover,
+.prime-location-magenta .ae-iconbox i[class*="fa-"],
+.prime-location-magenta .ae-iconbox a i[class*="fa-"],
+.prime-location-magenta .showcase-property span.price,
+.prime-location-magenta .equity-idx-carousel span.price,
+.prime-location-magenta .widget .listing-wrap .listing-thumb-meta span,
+.prime-location-magenta .home-top h4.widget-title,
+.prime-location-magenta .home-bottom h4.widget-title,
+.prime-location-magenta h1.entry-title {
+	color: #9a2578;
+}
+.prime-location-magenta .ae-iconbox.type-2:hover i[class*="fa-"],
+.prime-location-magenta .ae-iconbox.type-2:hover a i[class*="fa-"],
+.prime-location-magenta .ae-iconbox.type-3:hover i[class*="fa-"],
+.prime-location-magenta .ae-iconbox.type-3:hover a i[class*="fa-"] {
+	color: #9a2578 !important;
+}
+.prime-location-magenta .top-header,
+.prime-location-magenta .button:not(.secondary),
+.prime-location-magenta button:not(.secondary),
+.prime-location-magenta input[type="button"],
+.prime-location-magenta input[type="submit"],
+.prime-location-magenta .IDX-wrapper-standard .IDX-btn,
+.prime-location-magenta .IDX-wrapper-standard .IDX-btn-default,
+.prime-location-magenta .IDX-wrapper-standard .IDX-btn-default,
+.prime-location-magenta .IDX-wrapper-standard .IDX-btn-primary,
+.prime-location-magenta .IDX-wrapper-standard #IDX-newSearch,
+.prime-location-magenta .IDX-wrapper-standard #IDX-saveProperty,
+.prime-location-magenta .IDX-wrapper-standard .IDX-removeProperty,
+.prime-location-magenta .IDX-wrapper-standard #IDX-saveSearch,
+.prime-location-magenta .IDX-wrapper-standard #IDX-modifySearch,
+.prime-location-magenta .IDX-wrapper-standard #IDX-submitBtn,
+.prime-location-magenta .IDX-wrapper-standard #IDX-resetBtn,
+.prime-location-magenta .IDX-wrapper-standard #IDX-refineSearchFormToggle,
+.prime-location-magenta .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.prime-location-magenta .IDX-wrapper-standard .IDX-navbar-default,
+.prime-location-magenta .IDX-wrapper-standard .IDX-navigation,
+.prime-location-magenta .home-lead .IDX-mapTab,
+.prime-location-magenta .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a,
+.prime-location-magenta .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:focus,
+.prime-location-magenta .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:hover,
+.prime-location-magenta .IDX-wrapper-standard #IDX-mapHeader-Search,
+.prime-location-magenta .ae-iconbox.type-2 i,
+.prime-location-magenta .ae-iconbox.type-3 i,
+.prime-location-magenta ul.pagination li.current a,
+.prime-location-magenta ul.pagination li.current button,
+.prime-location-magenta .bg-alt,
+.prime-location-magenta .after-entry-widget-area,
+.prime-location-magenta .contain-to-grid,
+.prime-location-magenta .top-header,
+.prime-location-magenta .top-bar,
+.prime-location-magenta .top-bar.expanded .title-area,
+.prime-location-magenta .top-bar-section ul li,
+.prime-location-magenta .top-bar-section ul li.active > a,
+.prime-location-magenta .top-bar-section .dropdown li label,
+.prime-location-magenta .top-bar-section .dropdown li a,
+.prime-location-magenta .top-bar-section .dropdown li:not(.has-form) a:not(.button),
+.prime-location-magenta .top-bar-section li:not(.has-form) a:not(.button) {
+	background-color: #9a2578;
+}
+.prime-location-magenta .button,
+.prime-location-magenta button,
+.prime-location-magenta input[type="button"],
+.prime-location-magenta input[type="submit"],
+.prime-location-magenta .idx-content .IDX-wrapper-standard .IDX-panel-primary,
+.prime-location-magenta .idx-content .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.prime-location-magenta .idx-content .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-collapse,
+.prime-location-magenta .idx-content .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-form,
+.prime-location-magenta .idx-content .IDX-wrapper-standard .IDX-navbar-default {
+	border-color: #9a2578;
+}
+.prime-location-magenta a:hover,
+.prime-location-magenta a:focus {
+	color: #7e1a61;
+}
+.prime-location-magenta .button:not(.secondary):hover,
+.prime-location-magenta button:not(.secondary):hover,
+.prime-location-magenta input[type="button"]:hover,
+.prime-location-magenta input[type="submit"]:hover,
+.prime-location-magenta .IDX-wrapper-standard .IDX-btn:hover,
+.prime-location-magenta .IDX-wrapper-standard .IDX-btn-default:hover,
+.prime-location-magenta .IDX-wrapper-standard .IDX-btn-primary:hover,
+.prime-location-magenta .IDX-wrapper-standard #IDX-newSearch:hover,
+.prime-location-magenta .IDX-wrapper-standard #IDX-saveProperty:hover,
+.prime-location-magenta .IDX-wrapper-standard .IDX-removeProperty:hover,
+.prime-location-magenta .IDX-wrapper-standard #IDX-saveSearch:hover,
+.prime-location-magenta .IDX-wrapper-standard #IDX-modifySearch:hover,
+.prime-location-magenta .IDX-wrapper-standard #IDX-submitBtn:hover,
+.prime-location-magenta .IDX-wrapper-standard #IDX-resetBtn:hover,
+.prime-location-magenta .IDX-wrapper-standard #IDX-refineSearchFormToggle:hover,
+.prime-location-magenta .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a,
+.prime-location-magenta .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:focus,
+.prime-location-magenta .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:hover,
+.prime-location-magenta .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:focus,
+.prime-location-magenta .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:hover,
+.prime-location-magenta .IDX-wrapper-standard .IDX-searchNavItem a:hover,
+.prime-location-magenta .bg-alt .button:hover,
+.prime-location-magenta .bg-alt input[type="button"]:hover,
+.prime-location-magenta .bg-alt input[type="submit"]:hover,
+.prime-location-magenta .button:not(.secondary):focus,
+.prime-location-magenta button:not(.secondary):focus,
+.prime-location-magenta input[type="button"]:focus,
+.prime-location-magenta input[type="submit"]:focus,
+.prime-location-magenta ul.pagination li.current a:hover,
+.prime-location-magenta ul.pagination li.current a:focus,
+.prime-location-magenta ul.pagination li.current button:hover,
+.prime-location-magenta ul.pagination li.current button:focus,
+.prime-location-magenta .top-bar-section ul li.active > a,
+.prime-location-magenta .top-bar-section li:not(.has-form):hover > a:not(.button),
+.prime-location-magenta .top-bar-section .dropdown li:not(.has-form):hover > a:not(.button),
+.prime-location-magenta .top-bar-section li.active:not(.has-form) a:not(.button):hover,
+.prime-location-magenta .top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background-color: #7e1a61;
+}
+.prime-location-magenta .top-bar.expanded .toggle-topbar a,
+.prime-location-magenta .top-bar-section .dropdown label {
+	color: #cc48a6;
+}
+.prime-location-magenta .top-bar-section .divider,
+.prime-location-magenta .top-bar-section [role="separator"],
+.prime-location-magenta .top-bar-section > ul > .divider,
+.prime-location-magenta .top-bar-section > ul > [role="separator"] {
+	border-color: #cc48a6;
+}
+.prime-location-magenta .top-header a,
+.prime-location-magenta .bg-alt a,
+.prime-location-magenta .button,
+.prime-location-magenta button,
+.prime-location-magenta input[type="button"],
+.prime-location-magenta input[type="submit"],
+.prime-location-magenta .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a,
+.prime-location-magenta .button:hover,
+.prime-location-magenta button:hover,
+.prime-location-magenta input[type="button"]:hover,
+.prime-location-magenta input[type="submit"]:hover,
+.prime-location-magenta .ae-iconbox.type-2 i,
+.prime-location-magenta .ae-iconbox.type-3 i,
+.prime-location-magenta .bg-alt .ae-iconbox i[class*="fa-"],
+.prime-location-magenta .bg-alt .ae-iconbox a i[class*="fa-"] {
+	color: #fff !important;
+}
+.prime-location-magenta .bg-alt .button,
+.prime-location-magenta .bg-alt button,
+.prime-location-magenta .bg-alt input[type="button"],
+.prime-location-magenta .bg-alt input[type="submit"] {
+	border-color: #fff;
+}
+
+
+/* =Color Styles - Custom
+------------------------------------------------------------------------- */
+.prime-location-custom .bg-alt a,
+.prime-location-custom .button,
+.prime-location-custom button:not(#IDX-formReset),
+.prime-location-custom input[type="button"],
+.prime-location-custom input[type="submit"],
+.prime-location-custom .button:hover,
+.prime-location-custom button:hover,
+.prime-location-custom input[type="button"]:hover,
+.prime-location-custom input[type="submit"]:hover,
+.prime-location-custom .ae-iconbox.type-2 i,
+.prime-location-custom .ae-iconbox.type-3 i,
+.prime-location-custom .idx-content .IDX-wrapper-standard .IDX-detailsPhotosWrap a.IDX-arrow,
+.prime-location-custom .idx-content .IDX-wrapper-standard .IDX-searchNavItem a,
+.prime-location-custom .idx-content #IDX-main .IDX-wrapper-standard a.IDX-btn:not(#IDX-formReset),
+.prime-location-custom .idx-content .IDX-wrapper-standard a.IDX-btn-default,
+.prime-location-custom .idx-content .IDX-wrapper-standard a.IDX-btn-primary,
+.prime-location-custom .idx-content .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a {
+	color: #fff !important;
+}
+.prime-location-custom .bg-alt .button,
+.prime-location-custom .bg-alt button,
+.prime-location-custom .bg-alt input[type="button"],
+.prime-location-custom .bg-alt input[type="submit"] {
+	border-color: #fff;
+}

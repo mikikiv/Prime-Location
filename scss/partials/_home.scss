@@ -1,0 +1,288 @@
+/* =Home page
+------------------------------------------------------------------------- */
+.home .content-sidebar-wrap {
+	padding: 0;
+	margin: 0;
+	background: none;
+}
+.home .content-sidebar-wrap.row,
+.home .content-sidebar-wrap.row .home-lead .row {
+	max-width: none;
+}
+.home .content-sidebar-wrap.row > .columns {
+	padding: 0;
+}
+.home .content-sidebar-wrap.row .row {
+	max-width: 1140px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.home-top,
+.home-middle,
+.home-bottom {
+	padding-top: 1.75rem;
+	padding-bottom: 1.75rem;
+}
+.home-top .widget,
+.home-middle .widget,
+.home-bottom .widget {
+	margin-bottom: 1.75rem;
+}
+.home-top .widget:last-child,
+.home-middle .widget:last-child,
+.home-bottom .widget:last-child {
+	margin-bottom: 0;
+}
+.home .content-sidebar-wrap.row .bg-alt {
+	background: none;
+	color: $body-font-color-secondary;
+}
+.home .bg-alt a {
+	color: $body-font-color-secondary;
+}
+.home .bg-alt a:hover {
+	color: scale-color($body-font-color-secondary, $lightness: -14%);
+}
+.home-top h4,
+.home-middle h4,
+.home-bottom h4 {
+	font-size: rem-calc(30);
+	line-height: 1;
+	margin: 0rem 0 1.75rem;
+}
+.home-top h4.widget-title,
+.home-bottom h4.widget-title {
+	color: $primary-color;
+	position: relative;
+	z-index: 1;
+}
+.home-top h4.widget-title span,
+.home-bottom h4.widget-title span {
+	position: relative;
+	background-color: #fff;
+	padding-right: 20px;
+}
+.home-top h4.widget-title:after,
+.home-bottom h4.widget-title:after {
+	content: "";
+	left: 0px;
+	position: absolute;
+	background-color: #f3f3f3;
+	height: 8px;
+	width: 100%;
+	top: 0px;
+	bottom: 0px;
+	margin: auto;
+	z-index: -1;
+}
+@media #{$large-up} {
+	.home-top,
+	.home-middle,
+	.home-bottom {
+		padding-top: 3.25rem;
+		padding-bottom: 3.25rem;
+	}
+
+	.home-top .widget,
+	.home-middle .widget,
+	.home-bottom .widget {
+		margin-bottom: 3rem;
+	}
+	.home-top .widget:last-child,
+	.home-middle .widget:last-child,
+	.home-bottom .widget:last-child {
+		margin-bottom: 0;
+	}
+	.home-top .columns .columns {
+		padding-left: 0;
+	}
+}
+
+/* =Home Lead
+------------------------------------------------------------------------- */
+.home-lead {
+	padding: 0;
+	background: $body-bg;
+	border-bottom: 4px solid #f3f3f3;
+}
+.home .content-sidebar-wrap.row .home-lead .row .columns {
+	padding: 0;
+}
+.home-lead .IDX-mapWidgetWrap,
+.home-lead .IDX-mapControlContainer {
+	width: 100% !important;
+}
+.IDX-mapControlContainer {
+	max-height: 325px;
+	height: 325px;
+}
+.home-lead .IDX-mapHeader-Element,
+.home-lead div[id*="IDX-mapRefresh-"] {
+	font-family: $body-font-family;
+	font-size: rem-calc(14);
+	font-weight: $font-weight-bold;
+	text-transform: uppercase;
+}
+
+.home-lead .IDX-mapHeader {
+	width: 48% !important;
+	position: absolute;
+	right: 20px;
+	top: 10px;
+	z-index: 10;
+}
+
+.home-lead .IDX-mapCount,
+.home-lead .IDX-mapTab,
+.home-lead div[id*="IDX-mapRefresh-"] {
+	color: $body-font-color;
+	padding: 5px;
+	background: $body-font-color-secondary;
+	// background: rgba(255,255,255,0.75);
+	box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+	border: 0;
+	border-radius: 0;
+}
+
+.home-lead .IDX-mapCount {
+	float: none !important;
+	margin: 0 0 10px;
+	font-size: 12px;
+	width: 100%;
+	text-align: center;
+}
+
+@media #{$medium-only} {
+	.home-lead .IDX-mapHeader {
+		width: 22% !important;
+	}
+}
+@media #{$medium-up} {
+	.IDX-mapControlContainer {
+		max-height: none;
+		height: auto;
+	}
+}
+@media #{$large-up} {
+	.home-lead .IDX-mapHeader {
+		width: 13% !important;
+	}
+}
+
+.home-lead .IDX-mapTab {
+	float: none !important;
+	display: block;
+	width: 100%;
+	color: $body-font-color-secondary;
+	background: $primary-color;
+}
+
+.home-lead .IDX-mapTab:before,
+.home-lead .IDX-mapCount:before,
+.home-lead div[id*="IDX-mapRefresh-"]:before {
+	font-family: 'Font Awesome\ 5 Free';
+	content: "\f002";
+	font-size: 16px;
+	font-weight: 900;
+	padding: 0 10px 0 0;
+}
+
+.home-lead .IDX-mapCount:before {
+	content: "\f022";
+	font-size: 14px;
+}
+
+.home-lead div[id*="IDX-mapRefresh-"]:before {
+	content: "\f021";
+}
+
+.home-lead .IDX-MapSearch-Form {
+	border-radius: 0 !important;
+	width: 35% !important;
+}
+
+.home-lead #IDX-mapResultContainer {
+	font-family: $body-font-family;
+}
+
+.home-lead #IDX-mapResultsAddress,
+.home-lead #IDX-mapPrice {
+	font-size: rem-calc(16);
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.home-lead .leaflet-popup-content-wrapper {
+	border-radius: 0;
+}
+.home-lead .soliloquy-container .soliloquy-image {
+	width: 100%;
+}
+
+/* =Home Top
+------------------------------------------------------------------------- */
+.home-top {
+	background: $body-bg;
+}
+.home-top .ae-iconbox.type-2 {
+	padding-left: 90px;
+}
+.home-top .ae-iconbox.type-2 i {
+	font-size: 30px;
+	line-height: 65px;
+	width: 65px;
+	height: 65px;
+	border-radius: 65px;
+}
+.home-top .ae-iconbox.type-2 a:hover i {
+	background: none;
+}
+.home-top .ae-iconbox h4 {
+	font-size: rem-calc(26);
+}
+.home-top .ae-iconbox p {
+	font-size: rem-calc(14);
+}
+
+
+/* =Home Middle
+------------------------------------------------------------------------- */
+.home-middle {
+	text-align: center;
+}
+.home-middle .testimonial {
+	overflow: hidden;
+	margin-bottom: 1.5rem;
+}
+.home-middle blockquote {
+	text-align: left;
+	border-left: 0;
+	padding: 0;
+}
+.home-middle .button {
+	display: inline-block;
+	margin: 0 auto;
+}
+@media #{$medium-up} {
+	.home-middle .testimonial-image {
+		float: left;
+		margin: 0 2rem 0 0;
+	}
+}
+
+/* =Home Bottom
+------------------------------------------------------------------------- */
+.home-bottom {
+	background: $body-bg;
+}
+
+.home-bottom,
+.home-bottom p,
+.home-bottom ol,
+.home-bottom ul {
+	font-size: rem-calc(14);
+}
+
+.home-bottom .page-carousel h2 {
+	font-size: rem-calc(24);
+}
