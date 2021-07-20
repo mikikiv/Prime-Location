@@ -1,5 +1,0 @@
-0000000000000000000000000000000000000000 fc0841ca745909454652c6ccd0aa491a697a2e2a Matt Depew <administrator@Administrators-MacBook-Pro.local> 1602805356 -0700	clone: from http://stash.idx.local/scm/wt/prime-location.git
-fc0841ca745909454652c6ccd0aa491a697a2e2a cd08db20f5e2dda49407690d32f49918e605f5de Matt Depew <administrator@Administrators-MacBook-Pro.local> 1602805373 -0700	checkout: moving from master to release/1.0.8
-cd08db20f5e2dda49407690d32f49918e605f5de 8aea165f8b13df918e2ffc598f79372888532c5c Matt Depew <administrator@Administrators-MacBook-Pro.local> 1606341242 -0800	pull: Fast-forward
-8aea165f8b13df918e2ffc598f79372888532c5c c68ef541425d9952df4b81dda84446c4104b3838 Matt Depew <administrator@Administrators-MacBook-Pro.local> 1606341253 -0800	checkout: moving from release/1.0.8 to release/1.0.9
-c68ef541425d9952df4b81dda84446c4104b3838 75c12bbff9436be0a2bc2f92ee220dea8e4284a5 Matt Depew <administrator@Administrators-MacBook-Pro.local> 1612460540 -0800	pull: Fast-forward
