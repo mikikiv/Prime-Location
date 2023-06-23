@@ -2,7 +2,7 @@
   "name": "equity-libsass-template",
   "version": "0.0.1",
   "devDependencies": {
-    "node-sass": "^4.5.0",
+    "node-sass": "^7.0.0",
     "grunt": "^1.0.1",
     "grunt-contrib-watch": "~1.0.0",
     "grunt-sass": "^2.0.0",
